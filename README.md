@@ -1,9 +1,17 @@
-<h1>TryHackMe</h1>
+<h1>Blue Team Practice</h1>
 
-<h2>Description</h2>
+<h2>Overview</h2>
+Blue Team Practice documents my hands-on journey toward developing practical Security Operations Center (SOC) skills. I am actively completing the SOC Level 1 learning path on TryHackMe alongside CyberDefenders Blue Team labs to build a well-rounded foundation in security monitoring, incident investigation, and threat detection.
 
-While working my way through Try Hack Me's learning paths and labs, here is where I'll share my thoughts, learnings, and experiences.
+TryHackMe provides structured learning around core SOC concepts such as log analysis, SIEM usage, threat detection, and security fundamentals. CyberDefenders complements this by offering realistic investigation scenarios that simulate real-world security incidents and blue team workflows.
 
-<h3>Chapters and Labs</h3>
+Throughout this repository, I document labs from both platforms, including my investigation process, tools used, queries written, findings, and lessons learned. The goal is to demonstrate practical SOC analyst skills, reinforce my learning through documentation, and build a portfolio of hands-on security investigations.
 
-- <a href="https://github.com/securedbyjames/TryHackMe/blob/main/SOC%20Level%201%20Learning%20Path.md">SOC Level 1 Learning Path</a>
+<h3>TryHackMe Labs</h3>
+
+- <a href="https://github.com/securedbyjames/Blue-Team-Practice/blob/main/TryHackMe/Benign.md">Benign Lab Walkthrough</a><br>
+
+
+<h3>CyberDefeders Labs</h3>
+
+- <a href="">TBD</a>
