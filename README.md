@@ -7,11 +7,13 @@ TryHackMe provides structured learning around core SOC concepts such as log anal
 
 Throughout this repository, I document labs from both platforms, including my investigation process, tools used, queries written, findings, and lessons learned. The goal is to demonstrate practical SOC analyst skills, reinforce my learning through documentation, and build a portfolio of hands-on security investigations.
 
-<h3>TryHackMe Labs</h3>
+<h2>TryHackMe Labs</h2>
 
-- <a href="https://github.com/securedbyjames/Blue-Team-Practice/blob/main/TryHackMe/Benign.md">Benign Lab Walkthrough</a><br>
+<a href="https://github.com/securedbyjames/Blue-Team-Practice/blob/main/TryHackMe/Benign.md">Benign Lab Walkthrough</a>
+
+  - <b>Desription:</b> I investigated Windows process execution logs (Event ID 4688) ingested into Splunk after an IDS alert indicated a potential compromise within the HR department. Using Splunk searches and log analysis techniques, I identified a suspicious user account impersonating a legitimate employee, detected the use of scheduled tasks, and traced malicious activity involving the LOLBIN certutil.exe being used to download a payload from an external file-sharing site.
 
 
-<h3>CyberDefeders Labs</h3>
+<h2>CyberDefeders Labs</h2>
 
 - <a href="">TBD</a>
