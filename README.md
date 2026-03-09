@@ -16,4 +16,7 @@ Throughout this repository, I document labs from both platforms, including my in
 
 <h2>CyberDefeders Labs</h2>
 
-- <a href="">TBD</a>
+<a href="CyberDefenders/WebStrike Lab.md">WebStrike Lab</a>
+
+  - <b>Desription:</b> Analyzing network traffic using Wireshark to investigate a web server compromise, identify web shell deployment, reverse shell communication, and data exfiltration.
+
