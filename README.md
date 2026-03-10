@@ -14,7 +14,7 @@ Throughout this repository, I document labs from both platforms, including my in
   - <b>Desription:</b> I investigated Windows process execution logs (Event ID 4688) ingested into Splunk after an IDS alert indicated a potential compromise within the HR department. Using Splunk searches and log analysis techniques, I identified a suspicious user account impersonating a legitimate employee, detected the use of scheduled tasks, and traced malicious activity involving the LOLBIN certutil.exe being used to download a payload from an external file-sharing site.
 
 
-<h2>CyberDefeders Labs</h2>
+<h2>CyberDefenders Labs</h2>
 
 <a href="CyberDefenders/WebStrike Lab.md">WebStrike Lab</a>
 
